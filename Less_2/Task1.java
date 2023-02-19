@@ -16,4 +16,5 @@ public class Task1 {
         System.out.println("Строка палиндром");
         
     }
+
 }
