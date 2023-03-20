@@ -1,4 +1,4 @@
-package Less_6;
+package Less6;
 
 public class Main {
 
@@ -11,7 +11,7 @@ public class Main {
                 new Cat("Jerry", 6)
         };
 
-        Plate plate = new Plate(200);
+        Plate plate = new Plate(150);
 
         while (!plate.isEmpty() && !allCatsAreSatiated(cats)) {
             for (Cat cat : cats) {

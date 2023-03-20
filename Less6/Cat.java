@@ -1,4 +1,4 @@
-package Less_6;
+package Less6;
 
 public class Cat {
 
