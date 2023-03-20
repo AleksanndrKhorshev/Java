@@ -1,6 +1,4 @@
-import java.lang.reflect.Array;
-import java.util.Arrays;
-import java.util.Random;
+
 
 /*Написать метод, принимающий на вход два целых числа и проверяющий,
  * что их сумма лежит в пределах от 10 до 20 (включительно), если да – вернуть true, в противном случае – false.*/
